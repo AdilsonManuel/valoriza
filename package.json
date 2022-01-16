@@ -25,5 +25,7 @@
     "tsc": "^2.0.3",
     "typeorm": "^0.2.41",
     "uuid": "^8.3.2"
-  }
+  },
+  "repository": "https://github.com/AdilsonManuel/valoriza.git",
+  "author": "Adilson Zumba"
 }
